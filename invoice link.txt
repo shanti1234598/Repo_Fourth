@@ -1,0 +1,19 @@
+https://www.youtube.com/watch?v=wah7LavylBM
+
+above report is using fpdf library in php
+---------------------------------------------
+
+https://www.youtube.com/watch?v=fHcrMWSNxSI
+
+
+above link is to create invoice in pdf report.(invoice layout using fpdf library files)
+=====================================================================
+https://www.google.com/search?q=generate+report+pdf+from+mysql+data+with+fpdf+using+php&rlz=1C1CHBF_enIN940IN940&sxsrf=AOaemvIFoPhVMJGLg0odz909-iceKJn6SA%3A1635466012402&ei=HDt7YcOEGMT8rQGU463gBA&oq=generate+pdf+report+using+fpdf&gs_lcp=Cgdnd3Mtd2l6EAEYADIGCAAQCBAeOgcIIxCwAxAnOgcIABBHELADOgUIABDNAjoHCCMQsAIQJzoICAAQCBAHEB5KBAhBGABQ8V1Y8nRggoYBaAJwAngAgAGTBIgB5w6SAQkyLTEuMS4yLjGYAQCgAQHIAQnAAQE&sclient=gws-wiz
+=============================================================================
+https://www.youtube.com/watch?v=OniMozTVmlg
+=============================================================================
+
+image in pdf
+
+https://www.plus2net.com/php_tutorial/pdf-image.php
+=============================================================================
